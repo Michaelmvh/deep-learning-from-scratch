@@ -208,3 +208,6 @@ __marimo__/
 
 # Textbook PDFs
 textbooks/*
+
+# Obsidian vaults
+.obsidian/
