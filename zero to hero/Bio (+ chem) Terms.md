@@ -1,0 +1,52 @@
+## General Chem and Bio
+
+- Peptide - Compound consisting of two or more amino acids
+- Protein - Organic compound that have one or more long chains of amino acids
+- Amino Acid - simple organic compound consisting of a carboxyl (-COOH) and amino group (-NH_2)
+- Linear Peptide - a chain of amino acids linked together in a straight, unbranched sequence by peptide bonds
+  - Contrast with: Cyclic peptides
+- Cyclic Peptide - polypeptide chain with a ring structure formed when a chains ends are joined with a stable bond
+- Polypeptide chain - a long linear sequence of amino acids linked together by peptide bonds forming the primary structure of proteins
+- Peptide Bond - Strong covalent bond that links two amino acids
+- Covalent Bond - Chemical bond formed when two atoms share a pair of electrons
+- ligand - A molecule that binds to another (usually larger) molecule, such as a protein, to fulfill a biological process
+- Enzyme- a protein that acts as a biological catalyst, speeding up the speed of a specific chemical reaction
+- Isoform - Structurally similar proteins originating from the same gene but may have drastically different effects
+- Retrosynthesis - the process of working backwards to understand the steps needed to formulate a molecule
+- side chain (r group) - part of an amino acid; building blocks of design
+- backbone (protein) -
+- Hydrophobic -
+  - The main driving force in protein folding
+- Hydrophilic -
+- active site
+- substrate - the molecule an enzyme binds to and acts on
+- Protein Structure
+  - Primary
+  - Secondary
+  - tertiary
+  - quaternary
+- Homo-oligomer - Large protein complexes comprised of identical proteins. The majority of proteins form these larger complexes to achieve their biological function
+- Nanoparticle - a particle with a diameter between 1 and 100 nanometers
+
+## Protein Design
+
+- Undruggable proteins - A class of proteins historically considered untreatable with traditional drugs due to a lack of well-defined pockets or binding sites on their surface
+- Binding site - a specific region on a proteins surface where another molecule can physically attach
+- pockets - indentations on the surface of a protein that often function as binding sites
+- Chirality - a geometric handed-ness; a chiral molecule is one that can not be superimposed on its mirrored image
+  - Imagine a line with left and right hands on opposite sides of the line. Though the hands are mirrored images, they can not be placed on top of each without conflict
+- scaffold - The core stable structure of a protein of which, used as a base to build new functions upon
+- template - a molecule (like an existing protein structure) that serves as a starting pattern for designing a new molecule
+- motifs - small recurring pattern or structure that is associated with a specific function
+- residue - The term for a single amino acid once it is incorporated into a polypeptide chain
+- conformer - one of the many possible 3d shapes or spatial alignments arrangements a protein can adopt, often by rotating its chemical bonds
+- Binder - a molecule (often protein or peptide) that is engineered to specifically and strongly attach to a target molecule
+- Disordered region - an area of a protein without a fixed structure; flexible, dynamic
+- Affinity - measures the strength of a binding interaction between two molecules. High affinity means strong binding
+- specificity - the ability of a protein to bind to one specific target vs similar targets
+- De Novo Design - "from the new"; Designing a protein from scratch without relying on a template or scaffold
+- Protein co-design - Designing the sequence and structure at the same time
+- Docking - a computational simulation technique to predict the most likely way a ligand will bind to a proteins binding site
+- Rotamer - one of the commonly observed, stable conformations of an amino acids side chain
+  - computational design often involves testing different rotamers to find the best fit
+- Directed evolution - lab technique; involves creating a large library of gene variants, selecting for desired properties, and repeating the process multiple cycles to evolve the protein towards a specific goal
