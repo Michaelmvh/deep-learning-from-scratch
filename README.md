@@ -24,7 +24,7 @@
 
 Current:
 Adrej Karpathy zero to hero playlist
-https://youtu.be/VMj-3S1tku0?si=xycpTGaFdJz1f27y&t=1850
+https://youtu.be/VMj-3S1tku0?si=YvVcz1cCfZ4oqwNc&t=5971
 
 Future:
 
