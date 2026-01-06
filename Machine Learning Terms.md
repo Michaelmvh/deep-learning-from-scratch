@@ -35,7 +35,7 @@
 
 Techniques
 
-- Hyperparameter trick
+- Reparameterization trick
 -
 
 ## Math
