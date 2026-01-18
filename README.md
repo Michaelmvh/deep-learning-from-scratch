@@ -21,7 +21,6 @@
 ## Topics
 
 1. Foundations
-
    - Linear Regression & Logistic Regression.
 
    - Loss Functions: Mean Squared Error (MSE) vs. Cross-Entropy.
