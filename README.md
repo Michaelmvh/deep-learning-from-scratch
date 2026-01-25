@@ -45,6 +45,9 @@ https://youtu.be/VMj-3S1tku0?si=YvVcz1cCfZ4oqwNc&t=5971
 
 Future:
 
+- https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path
+- https://divingintogeneticsandgenomics.com/post/bioinfo-roadmap/
+- https://www.krupadave.com/articles/everything-about-transformers?x=v3
 - Deep Learning from Scratch by Seth Weidman
 - Probabilistic Machine Learning
 - Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
@@ -59,6 +62,11 @@ Future:
 - https://www.youtube.com/watch?v=z64a7USuGX0
 - https://blog.genesmindsmachines.com/p/we-still-cant-predict-much-of-anything
   https://www.youtube.com/watch?v=KnCRTP11p5U
+- https://modernaicourse.org/
+- Reinforcement learning - Google DeepMind: https://www.youtube.com/watch?v=2pWv7GOvuf0
+- Stanford’s CS229, CS231n and CS224N
+- Build a Large Language Model (From Scratch)
+- Digital Signals Theory - https://brianmcfee.net/dstbook-site/content/intro.html
 
 Interesting Papers:
 https://www.biorxiv.org/content/10.1101/2025.08.05.668824v2
@@ -73,6 +81,7 @@ https://x.com/paolagorigiorgi/status/1976327718800105506
 https://jalexine.github.io/fix-your-paper-reading-game.html
 https://masonjwang.com/writing/reading-research
 https://x.com/UptonOrwell/status/1975947180893708703
+https://academic.oup.com/nar/article/54/D1/D564/8373944
 
 Career:
 https://blog.zkagin.com/p/starting-in-biotech?r=2m07s
@@ -84,5 +93,13 @@ https://x.com/calebwatney/status/1999514482482008087
 Projects:
 https://github.com/RosettaCommons/atomworks/issues/26
 https://github.com/RosettaCommons/atomworks/issues/27
+
+Interesting Videos:
+https://www.youtube.com/watch?app=desktop&v=YLDUYm_46n0
+
+Interesting Articles:
+https://www.writingruxandrabio.com/p/what-will-it-take-for-ai-to-change
+https://www.byhand.ai/p/multihead-attention
+https://jalexine.github.io/on-doing-things.html
 
 Completed:
